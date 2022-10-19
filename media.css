@@ -1,0 +1,40 @@
+/* Responsive website---- */
+
+
+.container {
+    position: relative;
+    height: 848px;
+
+}
+.container::before {
+    height: 851px;
+}
+#new {
+    flex-direction: column;
+}
+
+.box_2 {
+    margin: 22px 8px;
+}
+
+
+
+.box_2 img {
+    height: 244px;
+    width: 311px;
+}
+
+#section {
+    flex-direction: column;
+    text-align: center;
+}
+
+.item img {
+    height: 230px;
+    width: 90%;
+}
+
+.item_1 {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
